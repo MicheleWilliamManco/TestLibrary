@@ -6,5 +6,7 @@ namespace TestLibrary
     {
         bool test = true;
         bool test1 = true;
+
+        public void AssignValueToTest() => test = false;
     }
 }
