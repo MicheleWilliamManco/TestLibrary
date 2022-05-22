@@ -8,5 +8,7 @@ namespace TestLibrary
         bool test1 = true;
 
         public void AssignValueToTest() => test = false;
+
+        public void AssignValueToTest1() => test = false;
     }
 }
