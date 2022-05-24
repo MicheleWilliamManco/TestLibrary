@@ -9,8 +9,6 @@ namespace TestLibrary
 
         public void AssignValueToTest() => test = false;
 
-        public void AssignValueToTest1() => test = false;
-
         public void AssignVAlueTOTest2() => test = true;
     }
 }
