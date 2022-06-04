@@ -5,7 +5,8 @@ namespace TestLibrary
 	{
 		None,
 		First,
-		Second
+		Second,
+		Third
 	}
 }
 
